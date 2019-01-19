@@ -8,4 +8,4 @@ Further, the proliferation of mass communication technologies over the past coup
 
 This course will introduce students to some of the methods that social scientists use to answer these types of questions. The focus will be on understanding and developing some of the fundamentals for designing and conducting text analysis projects from a social science perspective. We will also touch on some of the more advanced topics in this rapidly growing field. Hands-on analysis in the R statistical computing environment will be integral to the course, though no prior coding experience is required.
 
-**Note: You will need to use [raw.git.hack](https://raw.githack.com/) to render the HTML slides.**
+**Note: You will need to use [raw.git.hack](https://raw.githack.com/) to render the HTML slides, or download and save the raw HTML files.**
