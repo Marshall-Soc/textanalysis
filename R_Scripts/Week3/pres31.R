@@ -13,9 +13,10 @@ setwd("set_working_directory")
 
 
 #Necessary packages
-install.packages(c("NLP", "tm"))
+install.packages(c("NLP", "tm", "SnowballC"))
 library(NLP)
 library(tm)
+library(SnowballC)
 
 
 #Load in data
