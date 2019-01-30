@@ -112,7 +112,7 @@ doc4.plot <- ggplot(tfidf.doc4[1:10,], aes(x = Terms, y = value)) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1,
                                    face = "bold"),
         plot.title = element_text(face = "bold")) +
-  ggtitle("Article #1, published 8/21/2017")
+  ggtitle("Article #1, published 8/12/2017")
 
 doc20.plot <- ggplot(tfidf.doc20[1:10,], aes(x = Terms, y = value)) +
   geom_bar(stat = "identity", color = "black", fill = "#00aedb") +
