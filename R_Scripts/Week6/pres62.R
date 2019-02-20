@@ -28,7 +28,7 @@ library(text2vec)
 
 
 #Load in data
-load("data_corpus_sotu.rda")
+load("data_corpus_sotu.rda") #from quanteda.corpora (Benoit and Watanabe 2019)
 sotus <- data_corpus_sotu$documents
 sotus <- sotus[which(sotus$Date>="1989-02-09"),]
 
